@@ -40,6 +40,14 @@ A high-performance monolithic PHP MVC web application designed for **Felege Tibe
    - Place the project folder into your web server's root directory (`www/` or `htdocs/`).
    - Open your browser and navigate to: `http://localhost/Web-based Parent to Teacher Communication System/wptcs/index.php`
 
+## License & Access
+
+This repository is published for public viewing, portfolio representation, and review purposes only. The source code is protected under a restrictive proprietary license. Downloading, cloning, or distributing the code without authorization is prohibited.
+
+If you wish to download, test, or obtain a license to use this software, please contact the author directly via Telegram:
+
+👉 **[Contact on Telegram](https://t.me/abel_be27)**
+
 ## Demo Accounts
 
 - **Admin**: `admin` / `Admin@123`
